@@ -1,108 +1,123 @@
 {
   "wallpapers1": [
     {
-      "url": "https://imgur.com/HYi93mN.png",
+      "url": "https://i.imgur.com/31oJ5Ik.jpg",
       "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/4IKLf7H.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/eiigDj4.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://imgur.com/HYi93mN.png",
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/8w6Ec81.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 4
     },
     {
       "url": "https://imgur.com/WdBNkzK.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/TjU3cTI.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/3PzLey3.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/ipwvD0Z.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/NlzPwpM.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 2
     },
     {
       "url": "https://imgur.com/xLZz2M8.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/0Ux32Io.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/zm4Bpbd.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/D1jFa4L.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/YiVxfom.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 1
     },
     {
       "url": "https://imgur.com/HTY6tU6.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/d91dT09.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 4
     },
     {
       "url": "https://imgur.com/SxvQq8h.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/xYGMILR.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/U3jqQ5o.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/wv7P6zE.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 3
     },
     {
       "url": "https://imgur.com/JjGe9mY.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/jxzURFN.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://imgur.com/7ncehtf.png",
-      "isNew": true,
+      "isNew": false,
       "cost": 3
     },
     {
