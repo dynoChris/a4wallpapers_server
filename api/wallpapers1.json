@@ -1,18 +1,133 @@
 {
   "wallpapers1": [
     {
-      "url": "https://i.imgur.com/31oJ5Ik.jpg",
+      "url": "https://i.imgur.com/kzsWVXO.jpg",
       "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/viikygN.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/0LfnVGd.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/wKBZe6I.jpg",
+      "isNew": true,
+      "cost": 2
+    },
+    {
+      "url": "https://i.imgur.com/rXfDQ5H.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/B6skSBl.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/bmjosJo.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/4FuVAFJ.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/j6kNP5W.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/kx0kYeN.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/3k12fAt.jpg",
+      "isNew": true,
+      "cost": 3
+    },
+    {
+      "url": "https://i.imgur.com/e009nVv.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/33iwrVA.jpg",
+      "isNew": true,
+      "cost": 1
+    },
+    {
+      "url": "https://i.imgur.com/D0UaHZS.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/o7NbMtb.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/iYaE419.jpg",
+      "isNew": true,
+      "cost": 1
+    },
+    {
+      "url": "https://i.imgur.com/ICSD7HB.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/aeOuefl.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/OMLjF5Q.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/VEJWOI2.jpg",
+      "isNew": true,
+      "cost": 2
+    },
+    {
+      "url": "https://i.imgur.com/dXthvr3.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/ImhTGEu.jpg",
+      "isNew": true,
+      "cost": 2
+    },
+    {
+      "url": "https://i.imgur.com/TDs1c8t.jpg",
+      "isNew": true,
+      "cost": 0
+    },
+    {
+      "url": "https://i.imgur.com/31oJ5Ik.jpg",
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://i.imgur.com/4IKLf7H.jpg",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
       "url": "https://i.imgur.com/eiigDj4.jpg",
-      "isNew": true,
+      "isNew": false,
       "cost": 0
     },
     {
